@@ -2,7 +2,7 @@
 
 A machine learning-powered web application for diabetes risk prediction and visualization.
 
-**Live Demo:** [https://diabetesmart-analyzer.streamlit.app/](https://diabetesmart-analyzer.streamlit.app/)
+**Live Demo:** [https://diabetes-teys2eouzkgoobugcrrg7a.streamlit.app/)
 
 ## Project Overview
 
