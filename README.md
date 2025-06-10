@@ -1,7 +1,5 @@
 # DiabeteSmart Analyzer
 
-![DiabeteSmart Analyzer](https://i.imgur.com/LWTFx2a.png)
-
 A machine learning-powered web application for diabetes risk prediction and visualization.
 
 **Live Demo:** [https://diabetesmart-analyzer.streamlit.app/](https://diabetesmart-analyzer.streamlit.app/)
