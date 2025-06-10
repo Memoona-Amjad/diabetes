@@ -40,8 +40,8 @@ diabetesmart-analyzer/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/memoona215083/diabetesmart-analyzer.git
-   cd diabetesmart-analyzer
+   git clone https://github.com/Memoona-Amjad/diabetes.git
+   cd diabetes
    ```
 
 2. Install required dependencies:
