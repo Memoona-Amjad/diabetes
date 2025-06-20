@@ -368,7 +368,7 @@ if st.session_state.page == "analysis":
         col1, col2, col3 = st.columns([1, 3, 1])
         with col2:
             # Create a risk meter gauge chart
-            fig, ax = plt.subplots(figsize=(8, 4))
+            fig, ax = plt.subplots(figsize=(8, 4)), subplot_kw=dict(polar=True)) 
             
             # Create a semi-circular gauge
             theta = np.linspace(0, 180, 100) * np.pi / 180
